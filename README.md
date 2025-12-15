@@ -18,10 +18,11 @@
 
 ## 🛠️ Technologies Used
 
-* **Frontend:** HTML, CSS, JavaScript, Bootstrap
+* **Frontend:** HTML, CSS, JavaScript
 * **Backend:** PHP
 * **Database:** MySQL / PostgreSQL (Supabase migration)
-* **Tools:** XAMPP, VS Code, Git & GitHub
+* **Tools:** VS Code, Git & GitHub
+* **Deployment:** Hostinger (Online), XAMPP (Local)
 
 ---
 
@@ -51,4 +52,5 @@ HomeHive was developed as an academic and practical project to demonstrate:
 
 ---
 
-> HomeHive aims to modernize rental management by combining clean design, smart features, and scalable architecture.
+> Bee Smart. Bee Secured. Bee Home
+
