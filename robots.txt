@@ -1,0 +1,15 @@
+# Allow all crawlers to access everything
+User-agent: *
+Disallow:
+
+# Crawl-delay is optional; keep it minimal for faster indexing
+Crawl-delay: 5
+
+# Specify sitemap location to help Google discover pages quickly
+Sitemap: https://homehiveph.site/sitemap.xml
+
+# Block any sensitive folders (optional)
+Disallow: /admin/
+Disallow: /private/
+Disallow: /temp/
+

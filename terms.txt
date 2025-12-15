@@ -1,0 +1,102 @@
+HomeHive Terms & Conditions
+Effective Date: [Insert Date]
+Last Updated: [Insert Date]
+
+1. Introduction
+Welcome to HomeHive! By accessing or using our platform, you agree to comply with these Terms & Conditions. Your use of HomeHive is subject to the Philippine Data Privacy Act of 2012 (DPA 2012) and other relevant laws.
+
+If you disagree with these terms, please refrain from using our services.
+
+2. Definitions
+"HomeHive" — The online platform providing rental property listings, tenant screening, and AI-driven property management solutions.
+"User" — Any individual accessing HomeHive, including tenants, property owners, and administrators.
+"Personal Data" — Information that identifies or can identify a person, as defined under the DPA 2012.
+"Processing" — Any operation performed on Personal Data, including collection, storage, use, and archival/deletion.
+"Data Subject" — Any individual whose Personal Data is collected, held, or processed.
+
+3. User Responsibilities & Eligibility
+For Tenants:
+- Provide accurate and truthful information when creating an account, including identification and proof of financial capability.
+
+For Property Owners:
+- Verify your ownership and provide the required legal documents before listing a property.
+
+For All Users:
+- Do not submit false, misleading, or unauthorized listings or personal data.
+- Do not engage in illegal transactions or fraudulent activities within the platform.
+- Comply with all applicable rental laws and privacy regulations.
+
+Failure to adhere to these requirements may result in account suspension or legal action.
+
+4. Collection & Use of Personal Data (DPA 2012 Compliance)
+By using HomeHive, you consent to the collection and processing of your Personal Data for the following purposes:
+
+4.1 What Data We Collect:
+- For Tenants: Name, contact information, government-issued ID, proof of income, and previous rental records.
+- For Property Owners: Name, contact details, property ownership proof, tax, and compliance documents.
+- For All Users: Login credentials, payment records, activity logs, and transaction details.
+
+4.2 Why We Collect Data:
+- To verify user identities and prevent fraud.
+- To facilitate secure rental agreements.
+- To process payments and manage billing transactions.
+- To provide AI-driven property recommendations and decision support.
+
+4.3 Data Retention & Security:
+- Personal Data is retained only as necessary for business operations, legal compliance, or dispute resolution.
+- We implement strict security measures, including encryption and restricted access.
+- Users will be notified of any data breaches in compliance with Section 20(f) of the DPA 2012.
+
+4.4 User Rights (As per DPA 2012, Chapter IV, Sec. 16-18):
+Users have the right to:
+- Access their Personal Data.
+- Correct inaccurate or outdated information.
+- Withdraw consent and request account deletion (subject to legal retention requirements).
+- Restrict processing of their data if they believe it is being misused.
+
+For any data-related inquiries, users may contact: [Insert Contact Details].
+
+5. Communication & Messaging Policy
+- Tenants and property owners can communicate through HomeHive’s messaging feature.
+- Admins may monitor conversations ONLY when flagged for disputes or violations.
+- Unsolicited advertisements, harassment, or abuse within the platform are strictly prohibited.
+
+Violating these terms may result in account suspension or legal action.
+
+6. Payment & Transactions
+- HomeHive facilitates rental payments but does not act as a financial institution.
+- All payments are processed securely via [GCash/PayPal/Other Payment Gateway].
+- Refunds and chargebacks are subject to HomeHive’s billing policies and the rental agreement.
+
+7. Account Suspension & Termination
+HomeHive reserves the right to suspend or terminate accounts in the following cases:
+- Submission of fraudulent or misleading information.
+- Violation of the Philippine Data Privacy Act of 2012.
+- Engagement in fraudulent rental transactions.
+- Unauthorized access or misuse of other users’ data.
+
+Users may appeal account suspensions by contacting: [Insert Contact Email].
+
+8. Data Sharing & Third-Party Services
+- HomeHive does not sell or share Personal Data without user consent, except when:
+  - Required by law (e.g., law enforcement, fraud investigations).
+  - Necessary for payment processing or rental agreements.
+  - Users explicitly opt into features requiring third-party access.
+- Third-party services integrated with HomeHive comply with DPA 2012.
+
+9. Changes to These Terms
+HomeHive reserves the right to update these Terms & Conditions at any time. Changes will be notified via:
+- Email Notifications for registered users.
+- Platform Announcements before implementation.
+
+Continued use of HomeHive after changes implies acceptance of the updated Terms.
+
+10. Contact & Complaints
+For concerns about privacy or disputes related to these Terms & Conditions, contact:
+
+- Email: [Insert Email]
+- Phone: [Insert Contact Number]
+
+For privacy-related complaints under DPA 2012, users may also contact the National Privacy Commission (NPC) via:
+- Website: www.privacy.gov.ph
+- Hotline: [NPC Contact Number]
